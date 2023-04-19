@@ -1,6 +1,6 @@
 # Snake Game using Python and Turtle
 
-## Introduction
+# Introduction
 This is a simple implementation of the classic Snake game using the Turtle graphics library in Python. 
 
 ## Requirements
